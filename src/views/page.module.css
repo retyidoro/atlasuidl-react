@@ -12,3 +12,7 @@
   height: 220px;
   object-fit: cover;
 }
+.iframe {
+  width: 320px;
+  height: 200px;
+}

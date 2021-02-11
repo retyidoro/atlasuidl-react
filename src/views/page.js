@@ -17,6 +17,7 @@ const Page = () => {
         className={` ${projectStyles.thqImage} ${styles.image} `}
       />
       <span>Text</span>
+      <iframe src="https://www.youtube.com/embed/DeQkMK5LME4" className={styles.iframe}></iframe>
     </div>
   )
 }
